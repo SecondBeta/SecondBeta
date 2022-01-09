@@ -1,4 +1,4 @@
-### Hey 👋
+## Hey 👋
 
 <h2>I enjoy learning about app and web development,</h2>
 
