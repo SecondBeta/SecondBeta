@@ -1,6 +1,6 @@
 ## Hey 👋
 
-<h2>I enjoy learning about app and web development,</h2>
+<h3>I enjoy learning about app and web development,</h3>
 
 - ⚡ My favourite language is JS
 - 🔭 I’m currently working on a few things, most projects will be to learn new frameworks as of now
