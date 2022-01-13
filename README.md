@@ -19,7 +19,7 @@
 - Simply insert artworks
 - With an option to show a 3D model on the welcome page using three.js
 ### Future Projects
-- An Islamic app that has all the Haidth's organzed neatly (React Native + Next.js + Tailwind CSS)
+- An Islamic app that has all the Haidth's organzed neatly (React Native + Tailwind CSS)
 
 
 <h3 align="left">Languages and Tools:</h3>
