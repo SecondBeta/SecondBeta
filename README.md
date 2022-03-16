@@ -2,10 +2,6 @@
 
 <h3>I enjoy learning about app and web development,</h3>
 
-- ⚡ My favourite language is JS
-- 🔭 I’m currently working on a few things, most projects will be to learn new frameworks as of now
-- 🌱 I’m currently learning 3D modelling, my main passion is Architecture, and I plan to integrate my designs into websites by learning ThreeJS!
-
 <p align="left">
 </p>
 
