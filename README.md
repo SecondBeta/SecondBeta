@@ -1,7 +1,5 @@
 ## Hey 👋
 
-<h3>I enjoy learning about app and web development,</h3>
-
 <p align="left">
 </p>
 
